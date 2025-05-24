@@ -1,5 +1,5 @@
 1.Unity 2019.4.36f1c1 (64-bit)
-或者打开FallGuysSugarSprint.exe直接运行游戏
+或者打开FallGuysSugarSprint_exe文件夹直接运行exe文件
 
 2.MySQL版本：8.0.28
 
